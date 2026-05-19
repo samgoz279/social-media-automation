@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Output (you may or may not want to commit this)
+output/*.json
