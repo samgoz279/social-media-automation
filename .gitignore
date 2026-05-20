@@ -11,3 +11,6 @@ env/
 
 # Output (you may or may not want to commit this)
 output/*.json
+
+# Mac OS
+.DS_Store
